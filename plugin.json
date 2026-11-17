@@ -1,0 +1,8 @@
+{
+  "name": "intent-narrator",
+  "displayName": "Intent Narrator",
+  "version": "1.0.0",
+  "description": "多步任务执行时输出分层意图微播报（假设、定位结论与拟改边界），便于实时跟进与随时纠偏。",
+  "author": "UsonTong",
+  "repository": "https://github.com/UsonTong/intent-narrator"
+}
